@@ -14,7 +14,7 @@ Used SQL Query to retrieve the temperature data
 
 After extraction, futher evaluated the data in excel for more accurate and useful datasets.
 
-# Data Visualization 
+## Data Visualization 
 
 The visualizations are [here](https://github.com/saikiransangam/Data-Analyst/blob/master/Explore%20Weather%20Trends/Explore%20Wheather%20Trends.ipynb)
 
